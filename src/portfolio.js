@@ -596,7 +596,7 @@ const experience = {
           company_url: "https://www.delhivery.com/",
           logo_path: "delhivery_logo.png",
           duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          location: "Banglore, India",
           description:
             "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
           color: "#ee3c26",
