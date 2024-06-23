@@ -525,7 +525,7 @@ const experience = {
   description:
     "I have helped clients enhance their security postures through comprehensive assessments and effective vulnerability management. My experience includes conducting Nmap scans, executing penetration tests, and automating AWS WAF deployments. I have trained employees on phishing simulations and implemented secure coding practices. Additionally, I co-founded CYSEC-GITAM, leading over 400 members to improve their cybersecurity skills through mentorship and practical training.",
 
-  header_image_path: "experience.svg",
+  header_image_path: "experience_woman.svg",
   sections: [
     {
       title: "Work",
@@ -592,26 +592,36 @@ const experience = {
         //   color: "#ee3c26",
         // },
         {
-          title: "Security Engineer Intern",
+          title: "Security Engineer ",
           company: "Smartknower",
-          company_url: "https://www.delhivery.com/",
+          company_url: "https://in.linkedin.com/company/smartknower",
           logo_path: "smartknower_logo.jpeg",
           duration: "May 2021 - Aug 2021",
-          location: "Banglore, India",
+          location: "Work From Home",
           description:
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
           color: "#ee3c26",
         },
         {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
+          title: "Security Analyst ",
+          company: "Smartknower",
+          company_url: "https://in.linkedin.com/company/smartknower",
+          logo_path: "smartknower_logo.jpeg",
+          duration: "Feb 20121 - Apr 2021",
           location: "Work From Home",
           description:
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+          color: "#0071C5",
+        },
+        {
+          title: "Co-Founder and Technical Lead ",
+          company: "CYSEC GITAM",
+          company_url: "https://cysec.gitam.edu/",
+          logo_path: "cysec_logo.png",
+          duration: "Oct 2020 - Apr 2022",
+          location: "Visakhapatnam, India",
+          description:
+            "- Co-founded CySec, a cyber security club, and led it from a 10-member team to a community of over 400 students, focusing on advancing security knowledge and hands-on skills among peers, achieving The Innovative Club of the year award 2021. CySec is dedicated to educating peers on security principles, practices, tools and frameworks that position them ahead the competition. Spearheaded interactive learning initiatives like Security Bootcamps, Capture The Flag (CTF) competitions and workshops, improving members’ performance by 60% as measured in competitions and simulated attack scenarios. Provided a platform for students to seek knowledge with the help of info sessions and clear conceptual doubts, fostering a strong cybersecurity community, also spreading awareness on various modern cyber threats.",
           color: "#0071C5",
         },
       ],
@@ -686,7 +696,8 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects reflects my experience in various domains like Security, Cloud , Data Science by integrating various tools and technologies into real world applications.",
+  // makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.
   avatar_image_path: "projects_image.svg",
 };
 

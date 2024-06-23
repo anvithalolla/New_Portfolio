@@ -2,11 +2,11 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
+      "name": "Advanced Web Application Security with AWS WAF and Terraform",
       "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "image": "https://anvitha-lolla.streamlit.app/~/+/media/00112e882fc1c28fde42d0f3bc26cec6a726f82d7dc68b4fad80c03e.jpg",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "url": "https://github.com/anvithalolla/AWS_WAF",
+      "image": "aws_waf_logo.png",
+      "description": "This project focuses on configuring AWS Web Application Firewall (WAF) to protect against various types of attacks, including Distributed Denial of Service (DDoS), SQL Injection, Cross-Site Scripting (XSS), and other common web vulnerabilities. ",
       "isFork": false,
       "languages": [
         {
@@ -25,11 +25,11 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
+      "name": "Tesla Penetration Testing Project",
       "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "image": "https://anvitha-lolla.streamlit.app/~/+/media/00112e882fc1c28fde42d0f3bc26cec6a726f82d7dc68b4fad80c03e.jpg",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "url": "https://github.com/anvithalolla/Tesla_PenTest?tab=readme-ov-file",
+      "image": "tesla_pentest_logo.png",
+      "description": "📦 This project involves a comprehensive penetration testing assessment of Tesla's internal network",
       "isFork": false,
       "languages": [
         {
@@ -40,11 +40,11 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "Azure Infrastructure Automation With CI/CD Pipeline Using Terraform",
       "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "image": "https://anvitha-lolla.streamlit.app/~/+/media/00112e882fc1c28fde42d0f3bc26cec6a726f82d7dc68b4fad80c03e.jpg",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "url": "https://github.com/anvithalolla/Azure-Infrastructure-Automation",
+      "image": "azure_terraform.png",
+      "description": "🔥This project creates a robust CI/CD pipeline using Azure and Terraform, focusing on automating the setup and management of a suite of Azure resources. ",
       "isFork": false,
       "languages": [
         {
@@ -67,11 +67,11 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
+      "name": "Tesla Smart City Ride",
       "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "image": "https://anvitha-lolla.streamlit.app/~/+/media/00112e882fc1c28fde42d0f3bc26cec6a726f82d7dc68b4fad80c03e.jpg",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "url": "https://github.com/anvithalolla/Tesla-Smart-City-Ride",
+      "image": "tesla_smartcity.png",
+      "description": "🌀The Tesla SmartRide project is designed as a real-time data streaming and visualization system, intended to monitor a Tesla vehicle on its journey from Seattle to Cupertino.",
       "isFork": false,
       "languages": [
         {
@@ -94,11 +94,11 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Threat Detection through Packet Inspection and Malware Analysis",
       "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "image": "https://anvitha-lolla.streamlit.app/~/+/media/00112e882fc1c28fde42d0f3bc26cec6a726f82d7dc68b4fad80c03e.jpg",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "url": "https://github.com/anvithalolla/Threat-Detection-through-Packet-Inspection-and-Malware-Analysis",
+      "image": "malwareanalysis.jpeg",
+      "description": "⚙️ The objective of this project was to identify the source of compromise and recover malware from the network traffic for further analysis.",
       "isFork": false,
       "languages": [
         {
@@ -109,11 +109,11 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "Azure Sentinel Honeypot: Real-Time RDP Attack Detection",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "image": "https://anvitha-lolla.streamlit.app/~/+/media/00112e882fc1c28fde42d0f3bc26cec6a726f82d7dc68b4fad80c03e.jpg",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://github.com/anvithalolla/Azure-Sentinel-Honeypot-Real-Time-RDP-Attack-Detection",
+      "image": "honeypot.jpeg",
+      "description": "🚀This project involves the creation of an RDP honeypot using a virtual machine exposed to the internet, attracting brute force attacks. ",
       "isFork": false,
       "languages": [
         {
