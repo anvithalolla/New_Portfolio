@@ -523,7 +523,8 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have helped clients enhance their security postures through comprehensive assessments and effective vulnerability management. My experience includes conducting Nmap scans, executing penetration tests, and automating AWS WAF deployments. I have trained employees on phishing simulations and implemented secure coding practices. Additionally, I co-founded CYSEC-GITAM, leading over 400 members to improve their cybersecurity skills through mentorship and practical training.",
+
   header_image_path: "experience.svg",
   sections: [
     {
@@ -594,11 +595,11 @@ const experience = {
           title: "Security Engineer Intern",
           company: "Smartknower",
           company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "smartknower_logo.jpeg",
           duration: "May 2021 - Aug 2021",
           location: "Banglore, India",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
           color: "#ee3c26",
         },
         {
