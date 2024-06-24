@@ -5,7 +5,7 @@
       "name": "Advanced Web Application Security with AWS WAF and Terraform",
       "createdAt": "2023-04-13T04:18:19Z",
       "url": "https://github.com/anvithalolla/AWS_WAF",
-      "image": "aws_waf_logo.png",
+      "image": "https://raw.githubusercontent.com/anvithalolla/New_Portfolio/1df8a37153476de2d18f6c05c88c5741b92c86e2/src/assests/images/aws_waf.svg",
       "description": "This project focuses on configuring AWS Web Application Firewall (WAF) to protect against various types of attacks, including Distributed Denial of Service (DDoS), SQL Injection, Cross-Site Scripting (XSS), and other common web vulnerabilities. ",
       "isFork": false,
       "languages": [
@@ -28,7 +28,7 @@
       "name": "Tesla Penetration Testing Project",
       "createdAt": "2022-03-13T20:41:33Z",
       "url": "https://github.com/anvithalolla/Tesla_PenTest?tab=readme-ov-file",
-      "image": "tesla_pentest_logo.png",
+      "image": "https://raw.githubusercontent.com/anvithalolla/New_Portfolio/a9ee7770a64a05875543c4502ee2d00d7713a82c/src/assests/images/tesla_pentest_logo.svg",
       "description": "📦 This project involves a comprehensive penetration testing assessment of Tesla's internal network",
       "isFork": false,
       "languages": [
@@ -43,7 +43,7 @@
       "name": "Azure Infrastructure Automation With CI/CD Pipeline Using Terraform",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": "https://github.com/anvithalolla/Azure-Infrastructure-Automation",
-      "image": "azure_terraform.png",
+      "image": "https://raw.githubusercontent.com/anvithalolla/New_Portfolio/a9ee7770a64a05875543c4502ee2d00d7713a82c/src/assests/images/azure_terraform.svg",
       "description": "🔥This project creates a robust CI/CD pipeline using Azure and Terraform, focusing on automating the setup and management of a suite of Azure resources. ",
       "isFork": false,
       "languages": [
@@ -70,7 +70,7 @@
       "name": "Tesla Smart City Ride",
       "createdAt": "2022-02-11T14:50:20Z",
       "url": "https://github.com/anvithalolla/Tesla-Smart-City-Ride",
-      "image": "tesla_smartcity.png",
+      "image": "https://raw.githubusercontent.com/anvithalolla/New_Portfolio/a9ee7770a64a05875543c4502ee2d00d7713a82c/src/assests/images/tesla_smartcity.svg",
       "description": "🌀The Tesla SmartRide project is designed as a real-time data streaming and visualization system, intended to monitor a Tesla vehicle on its journey from Seattle to Cupertino.",
       "isFork": false,
       "languages": [
@@ -97,7 +97,7 @@
       "name": "Threat Detection through Packet Inspection and Malware Analysis",
       "createdAt": "2021-11-26T17:56:07Z",
       "url": "https://github.com/anvithalolla/Threat-Detection-through-Packet-Inspection-and-Malware-Analysis",
-      "image": "malwareanalysis.jpeg",
+      "image": "https://raw.githubusercontent.com/anvithalolla/New_Portfolio/a9ee7770a64a05875543c4502ee2d00d7713a82c/src/assests/images/malware-analysis.svg",
       "description": "⚙️ The objective of this project was to identify the source of compromise and recover malware from the network traffic for further analysis.",
       "isFork": false,
       "languages": [
@@ -112,7 +112,7 @@
       "name": "Azure Sentinel Honeypot: Real-Time RDP Attack Detection",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://github.com/anvithalolla/Azure-Sentinel-Honeypot-Real-Time-RDP-Attack-Detection",
-      "image": "honeypot.jpeg",
+      "image": "https://raw.githubusercontent.com/anvithalolla/New_Portfolio/a9ee7770a64a05875543c4502ee2d00d7713a82c/src/assests/images/azurehoneypot.svg",
       "description": "🚀This project involves the creation of an RDP honeypot using a virtual machine exposed to the internet, attracting brute force attacks. ",
       "isFork": false,
       "languages": [
